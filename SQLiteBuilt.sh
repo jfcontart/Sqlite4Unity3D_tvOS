@@ -46,8 +46,7 @@ SQLITE_CFLAGS=" \
 ARCH=arm64
 TVOS_MIN_SDK_VERSION=10.0
 OS_COMPILER="AppleTVOS"
-#HOST="arm-apple-darwin"
-HOST="aarch64-apple-darwin"
+HOST="arm-apple-darwin"
 
 export CROSS_TOP="${DEVELOPER}/Platforms/${OS_COMPILER}.platform/Developer"
 export CROSS_SDK="${OS_COMPILER}.sdk"
