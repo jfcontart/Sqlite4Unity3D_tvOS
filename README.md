@@ -21,7 +21,7 @@ Use the SQLiteBuilt_tvOS.sh default
 
 ```
 cd <this directory>
-./SQLiteBuilt_tvOS.sh <version example:4.3.0>
+./SQLiteBuilt_tvOS.sh <year> <version example:4.3.0>
 ```
 All is automatic!
 
